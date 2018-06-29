@@ -16,9 +16,9 @@
      -----------------------------------------
      Total:   699 points (as of the donated datbase on 15 July 1992)
      
-## Attribute Information: (class attribute has been moved to last column)
+## Attribute Information: 
 
-   #  Attribute                     Domain
+   ###  Attribute                     Domain
    -- -----------------------------------------
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
@@ -36,5 +36,5 @@
 
 ## Results
 1. Logistic Regression-
-  1. Accuracy on training set: 0.979
-  2. Accuracy on test set: 0.965
+    1. Accuracy on training set: 0.979
+    2. Accuracy on test set: 0.965
