@@ -38,3 +38,9 @@
 1. Logistic Regression-
     1. Accuracy on training set: 0.979
     2. Accuracy on test set: 0.965
+2. k Nearest Neighbors
+    1. Accuracy on training set: 0.975
+    2. Accuracy on test set: 0.959
+3. Random Forest
+    1. Accuracy on training set: 0.979
+    2. Accuracy on test set: 0.959
