@@ -31,7 +31,9 @@
    9. Normal Nucleoli               1 - 10
   10. Mitoses                       1 - 10
   11. Class:                        (2 for benign, 4 for malignant)
+       
        Benign: 458 (65.5%)
+       
        Malignant: 241 (34.5%)
 
 ## Results
